@@ -6,7 +6,9 @@ Here you have to put your OpenAI Key  and you have to create an different python
 
 You have to create an account on Pinecone for pineconeAPI, Environment and index name 
 
- 
+ https://www.pinecone.io/
+ ![image](https://github.com/mohdsaifansari/OpenAI-AI-Assistance/assets/42400597/5646ac42-7029-4d42-8e2a-9070de584bb7)
+
  ![image](https://github.com/mohdsaifansari/OpenAI-AI-Assistance/assets/42400597/5e09f95c-faf0-43e9-91cc-81378f340d67)
 
 
